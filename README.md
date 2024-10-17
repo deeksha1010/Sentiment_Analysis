@@ -17,4 +17,4 @@ Evaluate performance on the validation set.
 
 ### Future Work 🚀
 Try GRU or Transformer models.
-Fine-tune hyperparameters for better accuracy.
+Fine-tune hyperparameters for better accuracy or maybe increasing epochs can work too! :)
